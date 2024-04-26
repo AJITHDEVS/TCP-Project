@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "client_sideWF", "client_sideWF\client_sideWF.csproj", "{F2326AC8-00FA-4932-8172-9563E63C2D55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2326AC8-00FA-4932-8172-9563E63C2D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2326AC8-00FA-4932-8172-9563E63C2D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2326AC8-00FA-4932-8172-9563E63C2D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2326AC8-00FA-4932-8172-9563E63C2D55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {814C7B23-C14C-469C-BDC8-723D772D2A31}
+	EndGlobalSection
+EndGlobal

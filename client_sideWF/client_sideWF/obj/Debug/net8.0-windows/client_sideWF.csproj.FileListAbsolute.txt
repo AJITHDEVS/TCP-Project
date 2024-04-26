@@ -1,0 +1,17 @@
+C:\Users\ajith\source\repos\client_sideWF\client_sideWF\bin\Debug\net8.0-windows\client_sideWF.exe
+C:\Users\ajith\source\repos\client_sideWF\client_sideWF\bin\Debug\net8.0-windows\client_sideWF.deps.json
+C:\Users\ajith\source\repos\client_sideWF\client_sideWF\bin\Debug\net8.0-windows\client_sideWF.runtimeconfig.json
+C:\Users\ajith\source\repos\client_sideWF\client_sideWF\bin\Debug\net8.0-windows\client_sideWF.dll
+C:\Users\ajith\source\repos\client_sideWF\client_sideWF\bin\Debug\net8.0-windows\client_sideWF.pdb
+C:\Users\ajith\source\repos\client_sideWF\client_sideWF\obj\Debug\net8.0-windows\client_sideWF.SEND.resources
+C:\Users\ajith\source\repos\client_sideWF\client_sideWF\obj\Debug\net8.0-windows\client_sideWF.Properties.Resources.resources
+C:\Users\ajith\source\repos\client_sideWF\client_sideWF\obj\Debug\net8.0-windows\client_sideWF.csproj.GenerateResource.cache
+C:\Users\ajith\source\repos\client_sideWF\client_sideWF\obj\Debug\net8.0-windows\client_sideWF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajith\source\repos\client_sideWF\client_sideWF\obj\Debug\net8.0-windows\client_sideWF.AssemblyInfoInputs.cache
+C:\Users\ajith\source\repos\client_sideWF\client_sideWF\obj\Debug\net8.0-windows\client_sideWF.AssemblyInfo.cs
+C:\Users\ajith\source\repos\client_sideWF\client_sideWF\obj\Debug\net8.0-windows\client_sideWF.csproj.CoreCompileInputs.cache
+C:\Users\ajith\source\repos\client_sideWF\client_sideWF\obj\Debug\net8.0-windows\client_sideWF.dll
+C:\Users\ajith\source\repos\client_sideWF\client_sideWF\obj\Debug\net8.0-windows\refint\client_sideWF.dll
+C:\Users\ajith\source\repos\client_sideWF\client_sideWF\obj\Debug\net8.0-windows\client_sideWF.pdb
+C:\Users\ajith\source\repos\client_sideWF\client_sideWF\obj\Debug\net8.0-windows\client_sideWF.genruntimeconfig.cache
+C:\Users\ajith\source\repos\client_sideWF\client_sideWF\obj\Debug\net8.0-windows\ref\client_sideWF.dll
