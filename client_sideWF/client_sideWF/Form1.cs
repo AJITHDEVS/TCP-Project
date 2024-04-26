@@ -2,6 +2,9 @@ using System.Net.Sockets;
 using System.IO;
 namespace client_sideWF
 {
+
+
+    // hello
     public partial class SEND : Form
     {
         public SEND()
